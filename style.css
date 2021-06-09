@@ -1,0 +1,121 @@
+h1 { color: #EBABE0;}
+h2 { color:#EBABE0; font-family: calibri;}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+}
+
+.menu {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  margin: 30px 50px;
+  color: #95898A;
+}
+
+.link:hover {
+  color: #95898A;
+}
+
+.cadre1{border: 2px solid #95898A;
+	margin :20px ;
+	padding :10px;
+}
+
+.cadre2{border: 2px solid #95898A;
+	margin :20px ;
+	padding :10px;
+}
+
+.cadre3{border: 2px solid #95898A;
+	margin :20px ;
+	padding :10px;
+}
+
+.frame {border: 5px solid #EBABE0;
+	margin :50px ;
+	padding :20px;
+	background: #95898A;
+}
+
+.border {border:2px solid #EBABE0;
+	margin : 100px auto;
+	width: 500px;
+	padding : 20px;
+}
+
+.formulaire{border:2px solid #EBABE0;
+	margin : 100px auto;
+	width: 500px;
+	padding : 20px;
+}
+
+.exempleun {border: 2px solid #EBABE0;
+	margin: auto;
+	width: 500px;
+}
+
+.exempledeux {border: 2px solid #EBABE0;
+	margin: auto;
+	width: 500px;
+}
+
+
+body {
+	background: #FFE8FB;
+	text-align: center; 
+	font-family: arial;
+}
+
+h3 {
+	text-align: center;
+}
+
+ol {
+	text-align: left;
+}
+
+.drapeau {
+	margin: auto;
+	width: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.premier {
+	background: #FFCCF3;
+	height: 200px;
+	width: 100px;
+}
+
+.deuxieme {
+	background: #FFA6EA;
+	height: 200px;
+	width: 100px;
+}
+
+.troisieme {
+	background: #FF7DE0;
+	height: 200px;
+	width: 100px;
+}
+
+.quatrieme {
+	background: #FF51D5;
+	height: 200px;
+	width: 100px;
+}
+
+.cinquieme {
+	background: #FF16C7;
+	height: 200px;
+	width: 100px;
+}
